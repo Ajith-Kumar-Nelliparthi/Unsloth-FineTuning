@@ -16,6 +16,15 @@ This project contains code and resources for finetuning models using the Unsloth
     cd unsloth-finetuning
     ```
 
+📝 Notes
+- Trained on Colab with T4 GPU
+- Quantization with bitsandbytes
+
+📦 Install Dependencies
+    ```bash
+    uv pip install .
+    ```
+
 ## License
 
 This project is licensed under the MIT License.
